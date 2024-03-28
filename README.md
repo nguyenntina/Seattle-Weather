@@ -1,4 +1,4 @@
-# DATA3320 - Project 1: Seattle-Weather
+# DATA3320 - Project 1: Seattle Weather Exploration
 The purpose of this project is to explore whether it rains more in Seattle, WA than in New York City, NY.
 
 ## Data: 
