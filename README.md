@@ -43,3 +43,4 @@ The file that performs the data analysis is "weather_data_analysis.ipynb"
 The author of this repository is Tina Nguyen.
 
 ## License:
+This project is licensed under the terms of the MIT license.
