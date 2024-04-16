@@ -1,5 +1,16 @@
 # DATA3320 - Project 1: Seattle Weather Exploration
-The purpose of this project is to explore whether it rains more in Seattle, WA than in New York City, NY.
+
+## Description:
+The purpose of this project is to explore whether it rains more in Seattle, WA than in New York City, NY. We will be using data science methodology and creating graphs to answer this question.
+
+## Requirements:
+Software and packages that will be used include:
+
+1. Python
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Colab
 
 ## Data: 
 Data used in this project will come from the National Centers for Environmental Information online search tool. 
@@ -27,3 +38,8 @@ Steps took to analyze the data include:
 3. Interpret the plots
 
 The file that performs the data analysis is "weather_data_analysis.ipynb"
+
+## Author:
+The author of this repository is Tina Nguyen.
+
+## License:
