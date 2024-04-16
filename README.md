@@ -18,3 +18,12 @@ Steps took to prepare the data include:
 7. Impute missing values
 
 The file "weather_data_preparation.ipynb" performs the data preparation and the file "clean_seattle_nyc_weather.csv" is the cleaned data set.
+
+## Data Analysis:
+Steps took to analyze the data include:
+
+1. Brainstorm specific questions that can help us answer the overall problem
+2. Create plots that answered those specific questions
+3. Interpret the plots
+
+The file that performs the data analysis is "weather_data_analysis.ipynb"
