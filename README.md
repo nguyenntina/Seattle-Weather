@@ -37,7 +37,7 @@ Steps took to analyze the data include:
 2. Create plots that answered those specific questions
 3. Interpret the plots
 
-The file that performs the data analysis is "weather_data_analysis.ipynb"
+The file that performs the data analysis is "weather_data_analysis.ipynb" and the file "weather_analysis_results.docx" communicates the results.
 
 ## Author:
 The author of this repository is Tina Nguyen.
